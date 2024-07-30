@@ -1,0 +1,13 @@
+Traccia:
+Chiedi all’utente il suo nome,
+poi chiedi il suo cognome,
+poi chiedi il suo colore preferito
+Infine stampa in console nomecognomecolorepreferito21
+ES: marcolanciverde21
+BONUS
+Scrivi la password generata in pagina invece che in console!
+Nota bene:
+- Iniziate stampando un console.log('JS OK') per assicurarvi che la pagina sia  correttamente collegata.
+- Fate un bel commento multilinea con gli step che volete intraprendere (fase d'analisi)
+- Mentre scrivete il codice, commentate ogni micro step e subito dopo verificate col (console.log())
+- Disattivate Live Server finchè lavoriamo coi prompt o gli alert perchè potrebbe dar luogo a comportamenti strani

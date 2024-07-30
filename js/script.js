@@ -30,9 +30,9 @@ const number = ('21')
 
 const fullName = firstName + secondName;
 
-const passk = fullName + number
+const passk = fullName + number;
 
+console.log(passk)
 
-
-myDiv.innerText = Ciao
+myDiv.innerText = 'ciao la tua password è ', passk;
 
